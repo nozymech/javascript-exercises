@@ -1,5 +1,3 @@
-let result = []
-
 function repeatString (string,num) {
 result = ""
 if (num>=0) {
